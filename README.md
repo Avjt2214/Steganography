@@ -25,3 +25,5 @@ This project demonstrates a simple implementation of image steganography using P
   Install via pip:  
   ```bash
   pip install opencv-python
+## Screenshot
+![Image](https://github.com/user-attachments/assets/e71926fa-fb8e-43f1-917e-ac48a23e4a33)
