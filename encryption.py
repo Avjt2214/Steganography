@@ -33,6 +33,6 @@ for char in msg:
     z = (z + 1) % 3  # Cycle through the three channels
 
 # Save the encrypted image as PNG to avoid lossy compression
-cv2.imwrite("encryptedImage.png", img)
+cv2.imwrite("mypicencrypted.png", img)
 os.system("start encryptedImage.png")  # For Windows; on macOS use 'open' and on Linux 'xdg-open'
 print("Secret message embedded into image!")
