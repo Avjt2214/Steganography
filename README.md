@@ -21,7 +21,8 @@ This project demonstrates a simple implementation of image steganography using P
 ## Requirements
 
 - Python 3.x
-- [OpenCV](https://pypi.org/project/opencv-python/)  
+- [OpenCV](https://pypi.org/project/opencv-python/)
+
   Install via pip:  
   ```bash
   pip install opencv-python
